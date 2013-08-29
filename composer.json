@@ -22,7 +22,7 @@
     },
     "autoload": {
         "files": [
-            "src/array_column.php"
+            "src/date_get_week_number.php"
         ]
     }
 }
